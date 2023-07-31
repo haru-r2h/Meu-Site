@@ -1,0 +1,95 @@
+body {
+    background-color: #1d1d1d;
+}
+
+#phonk {
+    background-image: url(https://i.ytimg.com/vi/4D6bozeC7Fs/maxresdefault.jpg);
+    background-size: 100%;
+    background-position-y: center;
+    background-color: rgb(25, 200, 223);
+    size: auto;
+    padding: 100px;
+    text-align: center;
+    border-radius: 10px;
+    max-width: 900px;
+    margin: auto;
+    background-repeat: no-repeat;
+
+
+}
+
+#dubstep {
+    background-image: url(https://i.pinimg.com/originals/1f/53/79/1f53795cbaafebd5b60d2c821152b754.jpg);
+    background-size: 100%;
+    background-position-y: center;
+    background-color: rgb(25, 200, 223);
+    size: auto;
+    padding: 100px;
+    text-align: center;
+    border-radius: 10px;
+    max-width: 900px;
+    margin: auto;
+    background-repeat: no-repeat;
+
+
+}
+
+ul{
+    background-color: #242424;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+    border-radius: 8px;
+}
+
+li{
+    float: left;
+}
+
+li a:hover{
+    background-color: rgb(124, 70, 211);
+}
+
+li a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 14px 16px;
+    text-align: center;
+    display: block;
+    
+    
+}
+
+div {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    margin: auto;
+
+}
+
+#titulo_1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(123, 57, 230);
+}
+#titulo_2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(57, 103, 230);
+}
+
+#texto_1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+    text-indent: 5%;
+}
+
+hr {
+    width: 100%;
+}
+
+.video {
+    aspect-ratio: 16/9;
+    width: 100%;
+}
