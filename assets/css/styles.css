@@ -83,7 +83,7 @@ div {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: azure;
     text-indent: 5%;
-    font-align: justify;
+    text-align: justify;
 }
 
 hr {
