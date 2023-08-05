@@ -70,20 +70,19 @@ div {
 
 }
 
-#titulo_1 {
+#titulo_phonk {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(123, 57, 230);
 }
-#titulo_2 {
+#titulo_dubstep {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(57, 103, 230);
 }
 
-#texto_1 {
+.texto_1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: azure;
     text-indent: 5%;
-    text-align: justify;
 }
 
 hr {
